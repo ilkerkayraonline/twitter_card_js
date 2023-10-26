@@ -1,8 +1,18 @@
-#YAPILACAKLAR
+# Twitter Card Javascript Project 
 
-1- Kullanıcı inputa tıkladığında rengin değişmesi
-2- Klavyeden giriş olduğunda place holder kaybolacak
-3- Klavyeden giriş yapılmadığında placeholderın tekrar gelmesi
-4- Klavye girişi varsa tweet butonu aktif olacak
-5- Eğer kullanıcı limiti geçmişse tweet butonu pasif olacak
-# twitter_card_js
+<p> Bu projede JS yapısı kullanarak öncelikle harf giriş denetimi sağladık.  Harf giriş sayımızı sınırladık. </p> 
+
+<p> Ayrıca Tweet atma koşulumuzu harf girişi yapılınca ve harf sınırı aşılmadığı sürece tweet atılabilir olarak belirledik. </p>
+
+<p> Son olarak da harf sınırı geçilince, fazla yazılan her harfin arka plan rengini  kırmızı yaptık ve bunu aşağıdaki sayaca da yansıttık. </p>
+
+<p> -------------   -------------    -------------</p>
+
+<p> In this project, we used the JavaScript structure to implement letter input control. We limited the number of letter inputs. </p>
+
+<p> Additionally, we set our condition for tweeting to be possible when letter input is made and the letter limit is not exceeded. </p>
+
+
+Proje Görüntüsü / Project View 
+
+![](twitter.gif)
